@@ -1,0 +1,4 @@
+Platform	URL										Notas
+---------------------------------------------------------------------------------------------------------------------------------
+GitHub		https://github.com/Kassoomy/Poyecto-Integrador-1-Equipo-02
+AWS S3		https://s3.console.aws.amazon.com/s3/buckets/proyectointegrador-grupo2-20222	(Recordar inciar una sesion AWS)
